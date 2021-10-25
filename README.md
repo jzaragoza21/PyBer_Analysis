@@ -21,7 +21,7 @@ In executing a multiple-line graph, we visulize the ride share data through 4 mo
 
 ## Summary
 
-The analysis, dataframes and graphs above provide us with a solid foundation of data to build business operations recommendations on. The recommendations list is as follows:
+We are confident with further analysis we can help PyBer increase customer satisfaction and equally important, profit margins. The analysis, dataframes and graphs above provide us with a solid foundation as to where this additional analysis should start. The recommendation list is as follows:
 
   1. The outlier of suburban fares increasing while both urban and rural markets dropping during early April should be further studied. We are only examining four months of one year but as CEO I would want to know if this a trend that happened before and/or continued afterwards. As a result, I would invest in having the data science do a deeper analysis. This could result in deploying more drivers to suburban areas this time of the year or it could be determined that this was an anomoly.
   2. Given that the rural fare per ride is relatively close to urban and surburban fare per ride, yet rural's fare per driver is exponentitally more costly than its city type counterparts is cause for concern - or at least further study. We recommend diving deeper into the data here and see if more drivers are needed in rural markets. Given that wages are typically lower in rural markets, if additional analysis shows that adding a few more drivers could not only add more access for rural customers but it also would expand their reach and perhaps even expand their profit margins.
