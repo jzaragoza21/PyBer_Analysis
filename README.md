@@ -9,4 +9,4 @@ The Pyber Challenge requires us to write and execute code for the following two 
 
 
 
-![RideShare Dataframe (https://github.com/jzaragoza21/PyBer_Analysis/blob/main/analysis/Deliverable1_RideShare_Dataframe.png)
+![RideShare Dataframe](https://github.com/jzaragoza21/PyBer_Analysis/blob/main/analysis/Deliverable1_RideShare_Dataframe.png)
