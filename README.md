@@ -7,6 +7,11 @@ The Pyber Challenge requires us to write and execute code for the following two 
 
 ## Results
 
+The dataframe below breakdown ride share data by city type. City types are defined as rural, suburban and urban. The analysis further breaks it down by how many total rides and total drivers there are in each city type. Furthermore, we see the average fare for each ride and each driver is in the aforementioned city types. There is a clear correlation and perhaps even causation, between the population of a city and town and the number of total drivers and total fare and this therefore impacts the average cost per ride and per driver. In this case, the higher the population of a city or town, then the more drivers there are and the lower the fare per ride and per driver. The rural ride share economy reflects what economics describes as the law of supply. The less drivers there are because there is less of population to serve, also impacts the cost, in that there is an upward slope with cost. In short, the less drivers the higher the cost.  
 
 
 ![RideShare Dataframe](https://github.com/jzaragoza21/PyBer_Analysis/blob/main/analysis/Deliverable1_RideShare_Dataframe.png)
+
+
+
+![PyBer_Fare_Summary](https://github.com/jzaragoza21/PyBer_Analysis/blob/main/analysis/PyBer_fare_summary.png)
